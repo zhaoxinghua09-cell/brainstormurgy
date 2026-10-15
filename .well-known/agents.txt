@@ -1,0 +1,3 @@
+agent-name: brainstormurgy
+contact: https://github.com/zhaoxinghua09-cell/brainstormurgy
+ecosystem: https://github.com/zhaoxinghua09-cell/awesome-trusted-agents
