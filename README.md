@@ -1,7 +1,7 @@
 ---
 name: brainstormurgy
 description: "Use when engineering group ideation: divergence first, then categorization and error-seeking filtering. 当需要工程化群智激发（先发散、再分类、带找错筛选）时使用。"
-license: ARR
+license: apache-2.0
 type: term-registration
 namespace: lgd.terms
 version: v1.1
