@@ -15,6 +15,7 @@ related: [lgd-doctrine]
 
 
 
+
 # Brainstormurgy · 头脑风暴工程术
 
 ![LGD score](badge.svg "LGD machine-readability score")
